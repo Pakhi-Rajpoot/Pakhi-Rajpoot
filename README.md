@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pakhi Rajpoot</h1>
 # 👋 Hello! I'm Pakhi
 
-Motivated Backend Developer and aspiring Machine Learning Enthusiast. I have hands-on experience in developing REST APIs using Node.js and Express, working with MongoDB, and implementing JWT authentication. Currently exploring machine learning to predict outcomes using Python.
+Motivated Backend Developer and aspiring AI and Machine Learning Enthusiast. I have hands-on experience in developing REST APIs using Node.js and Express, working with MongoDB, and implementing JWT authentication. Currently exploring machine learning to predict outcomes using Python.
 
 I’m eager to apply my technical expertise in backend development and machine learning to build impactful and data-driven applications.
 
@@ -10,26 +10,26 @@ I’m eager to apply my technical expertise in backend development and machine l
 ## 🎓 Education
 
 Bachelor’s Degree in Computer Science and Engineering  
-[Your College Name]  
-Graduation Year: [Your Year]
+[Galgotias college of engineering and technology]  
+Graduation Year: [2022-2026]
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-**Languages:** JavaScript, Java, Python  
-**Databases:** MongoDB, MySQL  
-**Frameworks/Libraries:** Node.js, Express.js, Mongoose  
-**Machine Learning:** Pandas, Numpy, Matplotlib, Scikit-learn  
-**Version Control:** Git / GitHub
+**Full Stack Development:** HTML, CSS, Javascript, Node.js, Express.js
+**Languages:** JavaScript, Java, Python, C, C++ 
+**Databases:** MongoDB, MySQL, MongoDB Atlas, Oracle(SQL)  
+**Machine Learning:** Pandas, Numpy, Matplotlib, Scikit-learn, Data Extraction, EDA  
+**Developer Tools:** Git / GitHub, VS Code, Render, Postman, Cloudinary, Jupyter Notebook, Google Colab
 
 ---
 
 ## 📫 Contact Me
 
-**Email:** [your-email@example.com]  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)
+**Email:** [pakhirajpootmpi@gmail.com]  
+**LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/pakhi-rajpoot-4161a6356/)  
+**GitHub:** [github.com/yourusername](https://github.com/Pakhi-Rajpoot)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pakhi-rajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="pakhi-rajpoot" /> </p>
 
