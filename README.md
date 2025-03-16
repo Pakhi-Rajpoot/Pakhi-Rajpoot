@@ -18,11 +18,8 @@ Graduation Year: [2022-2026]
 ## 🛠️ Tools & Technologies
 
 **Full Stack Development:** HTML, CSS, Javascript, Node.js, Express.js
-
 **Languages:** JavaScript, Java, Python, C, C++ 
-
 **Databases:** MongoDB, MySQL, MongoDB Atlas, Oracle(SQL)  
-
 **Machine Learning:** Pandas, Numpy, Matplotlib, Scikit-learn, Data Extraction, EDA  
 **Developer Tools:** Git / GitHub, VS Code, Render, Postman, Cloudinary, Jupyter Notebook, Google Colab
 
