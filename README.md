@@ -1,4 +1,36 @@
 <h1 align="center">Hi 👋, I'm Pakhi Rajpoot</h1>
+# 👋 Hello! I'm Pakhi
+
+Motivated Backend Developer and aspiring Machine Learning Enthusiast. I have hands-on experience in developing REST APIs using Node.js and Express, working with MongoDB, and implementing JWT authentication. Currently exploring machine learning to predict outcomes using Python.
+
+I’m eager to apply my technical expertise in backend development and machine learning to build impactful and data-driven applications.
+
+---
+
+## 🎓 Education
+
+Bachelor’s Degree in Computer Science and Engineering  
+[Your College Name]  
+Graduation Year: [Your Year]
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Languages:** JavaScript, Java, Python  
+**Databases:** MongoDB, MySQL  
+**Frameworks/Libraries:** Node.js, Express.js, Mongoose  
+**Machine Learning:** Pandas, Numpy, Matplotlib, Scikit-learn  
+**Version Control:** Git / GitHub
+
+---
+
+## 📫 Contact Me
+
+**Email:** [your-email@example.com]  
+**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+**GitHub:** [github.com/yourusername](https://github.com/yourusername)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pakhi-rajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="pakhi-rajpoot" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pakhi-Rajpoot](https://github.com/Pakhi-Rajpoot)
