@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pakhi Rajpoot</h1>
-<h3 align="center">Aspiring Backend Developer | Machine Learning & AI Enthusiast</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pakhi-rajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="pakhi-rajpoot" /> </p>
-
-- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pakhi-Rajpoot](https://github.com/Pakhi-Rajpoot)
 
@@ -24,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pakhi-rajpoot&show_icons=true&locale=en" alt="pakhi-rajpoot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pakhi-rajpoot&" alt="pakhi-rajpoot" /></p>
-
